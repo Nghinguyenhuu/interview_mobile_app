@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:interview_mobile_app/pages/phone/home/home_page.dart';
-import 'package:interview_mobile_app/resources/colors.dart';
+import '../home/home_page.dart';
+import '../../../resources/colors.dart';
 import '../../pages.dart';
 import '../../../blocs/blocs.dart';
 
